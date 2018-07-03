@@ -1,2 +1,2 @@
-# resume
-catalog of work-related experiences
+# Logan Thomas Resume
+> Catalog of work-related experiences
