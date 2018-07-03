@@ -27,6 +27,10 @@ Machine Learning & Algorithms Team - Senior Data Scientist
 - Create and deploy machine learning models
 - Synthesize data to influence decision-making
 
+**Columbia University School of Professional Studies, New York, NY**  
+Applied Analytics in an Organizational Context - Course Facilitator Associate  
+*September 2016 - December 2016*
+
 **Nielsen, San Fransisco, CA**  
 Digital Product Team - Senior Data Scientist  
 *August 2016 - July 2017*
