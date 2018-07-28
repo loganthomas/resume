@@ -110,3 +110,42 @@ Baseball Office - Intern
 - Revised schedules, organized player information, and developed scouting reports for opposing teams  
 - Developed random number generator for pitch selection
 
+
+## Hands-On Experience
+**Adaptive Affunity Propagation Clustering**  
+- Invalid Traffic Detection Project  
+- Sci-Kit Learn  
+
+**Long Short-Term Memory (LSTM) Neural Network**  
+- Smart TV Project  
+- TensorFlow, Keras  
+
+**K-Dimensional (KD) Tree**  
+- International Total Audience Project  
+- SciPy  
+
+**Parallel Computing and Multiprocessing**  
+- Various Projects  
+- Joblib, Apache Spark, Databricks  
+
+**Convex Optimization**  
+- International Total Audience Project  
+- CVXPY  
+
+**Other Techniques Familiarity**  
+- Random Forests  
+- Decision Trees  
+- Logistic Regression  
+- Linear Interpolation  
+
+**Python Packages**  
+- SciPy  
+- NumPy  
+- Pandas  
+- Sci-Kit Learn  
+
+**Visualization Familiarity**  
+- Matplotlib  
+- Plotly  
+- Seaborn  
+- Spotfire  
