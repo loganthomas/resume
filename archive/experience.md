@@ -5,7 +5,7 @@
 **Nielsen, Austin, TX**  
 Machine Learning & Algorithms Team - Senior Data Scientist  
 *July 2017 - Present*  
-- Gather, clean, and deliver complex/noisy data
+- Gather and clean complex/noisy data
 - Discover relationships and detect anomalies in large datasets
 - Create and deploy machine learning models
 - Synthesize data to influence decision-making
@@ -24,14 +24,14 @@ Digital Product Team - Senior Data Scientist
 **Nielsen, Tampa, FL & San Fransisco, CA**  
 Emerging Leaders Program - Data Science  
 *July 2014 - August 2016*  
-> Watch Product Enhancement Team (San Fransisco, CA)  
+> Watch Product Enhancement Team (San Francisco, CA)  
 > February 2016 - August 2016  
 > - Lead Analyst for Total Content Ratings (TCR) research leveraging new Data Matching System
 > - Created, implemented, and enhanced code using SQL and R programming languages
 > - Coordinated development of data quality assurance checks for implementation of TCR research
 > - Authored two description of methodology papers that illustrate and annotate TCR enhancements
 
-> Technology & Telecom Team (San Fransisco, CA)   
+> Technology & Telecom Team (San Francisco, CA)   
 > August 2015 - February 2016  
 > - Voiced unique opportunities available to Verizon from Nielsen’s diverse Telecom product line
 > - Streamlined client communication procedures through self-developed technological updates
@@ -73,7 +73,7 @@ Digital Product Team - Data Scientist
 - Analyzed refusal/quit rates for panel members in prompt test  
 
 **Nielsen, Tampa, FL**  
-Data Science Day - Office Lead
+Data Science Day - Office Lead  
 *May 2015 - June 2015*  
 - Organized and supported Data Science Events for Oldsmar office  
 - Over 250 participants attended to learn about Data Sciences functions and roles  
