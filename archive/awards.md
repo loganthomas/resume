@@ -8,6 +8,9 @@
 - **Nielsen Simply Excellent** - *Platinum* (March 2017)
      + Logan stepped up by going above and beyond by learning Jira, coaching all the Use Case Leads, and expanding the scope of his own Use Case to include the newly created DSci SDLC. Your dedication to the Databricks pilot was a big factor in the success we had. You were there everyday and you really embraced the effort and the technology. I could not have done what I did on the project without your help. Thank you so much.
  
+- **First Place HOLA Innovation Challenge** (August 2015)  
+     + Recognized for new and innovative techniques created to inform sample acquisition target rates
+
 - **Nielsen Simply Excellent** - *Gold* (January 2017)
      + For going above and beyond in the transition to owning the R&D for in digital invalid traffic identification and removal, including research innovation, relentless pursuit of excellence and automation to ensure future quality and efficiency.
 
