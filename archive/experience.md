@@ -60,6 +60,12 @@ Mathematics Tutor
 
 ## Side Projects
 **Nielsen, San Francisco, CA**  
+Data Science Hackathon Planning Committee  
+*August 2016 - July 2017*  
+- Organized 2 day Hackathon sprints for entire San Francisco Office  
+- Participated in 3 different sprints   
+
+**Nielsen, San Francisco, CA**  
 HOLA Innovation Challenge - Data Scientist  
 *July 2015 - August 2015*  
 - Awarded First Place in HOLA Innovation challenge
