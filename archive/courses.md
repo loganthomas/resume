@@ -8,8 +8,11 @@
 - Programming for Everyone: Python (Coursera: University of Michigan)
 - Python Data Structures (Coursera: University of Michigan)
 - Using Databases with Python (Coursera: University of Michigan)
-- Questionnaire Design for Social Surveys (Coursera: University of Michigan)
-
+- Questionnaire Design for Social Surveys (Coursera: University of Michigan)  
+- Intro to Python for Data Science (DataCamp)
+- Intro to SQL for Data Science (DataCamp)
+- Introduction to Git for Data Science (DataCamp)
+- Introduction to Shell for Data Science (DataCamp)
 
 ## University of Florida <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/University_of_Florida_logo.svg/1280px-University_of_Florida_logo.svg.png" align="center" width="200">
 > M.S. Mechanical Engineering (Solid Mechanics, Design, & Manufacturing) <br/>
