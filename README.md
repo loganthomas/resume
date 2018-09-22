@@ -1,2 +1,2 @@
 # Logan Thomas Resume
-> Catalog of work-related experiences
+> Catalog of my work-related experiences, awards, and education.
