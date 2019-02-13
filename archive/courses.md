@@ -32,7 +32,7 @@
 - Data Mining (EIN 6905)
 
 
-## Palm Beach Atlantic University <img src="https://www.pba.edu/Content/Images/Logo.png" align="center" height="70"> <br/>
+## Palm Beach Atlantic University <img src="https://www.pba.edu/Content/Images/Logo.pngi" align="center" height="70"> <br/>
 > B.S. Mathematics <br/>
 > Minor: Biblical Studies <br/>
 > *Summa Cum Laude*
