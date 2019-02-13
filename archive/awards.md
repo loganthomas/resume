@@ -53,7 +53,7 @@
   quality release of Total Content Ratings with de-duplication across mobile, to hit the
   target of a late July release.
 
- - **Nielsen Simply Excellent** - *Gold* (July 2015)
+- **Nielsen Simply Excellent** - *Gold* (July 2015)
   - The extra effort, going above on beyond, bringing in valuable insights, and becoming
   an integral member on the Kids' Prompt Test.
 
