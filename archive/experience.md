@@ -66,13 +66,13 @@ Emerging Leaders Program - Data Science
 > - Led cross-functional team in evaluation of CATI logic within scripts used for phoning households
 > - Developed informative FAQ website offered to respondents 
 
-**The Academic Link, Wellington, FL**
-Academic Coach (Mathematics & Physics)
-*May 2013 - August 2013*
+**The Academic Link, Wellington, FL**  
+Academic Coach (Mathematics & Physics)  
+*May 2013 - August 2013*  
 
-**Palm Beach Atlantic University, Wellington, FL**
-Mathematics Tutor
-*August 2011 - May 2012*
+**Palm Beach Atlantic University, Wellington, FL**  
+Mathematics Tutor  
+*August 2011 - May 2012*  
 
 ## Side Projects
 **Nielsen, San Francisco, CA**  
@@ -135,7 +135,7 @@ Baseball Office - Intern
 > R  
 > BigQuery (Google Cloud Platform)
 
-**Adaptive Affunity Propagation Clustering**  
+**Adaptive Affinity Propagation Clustering**  
 - Invalid Traffic Detection Project  
 - Sci-Kit Learn  
 
