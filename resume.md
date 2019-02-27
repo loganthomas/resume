@@ -59,32 +59,27 @@ Digital Product Team - Senior Data Scientist
 Emerging Leaders Program - Data Science  
 *July 2014 - August 2016*  
 > *Rotation 4*: Watch Product Enhancement Team (San Francisco, CA)  
-> February 2016 - August 2016  
+> *February 2016 - August 2016*  
 > - Lead Analyst for Total Content Ratings (TCR) research leveraging new Data Matching System
 > - Created, implemented, and enhanced code using SQL and R programming languages
 > - Coordinated development of data quality assurance checks for implementation of TCR research
 > - Authored two description of methodology papers that illustrate and annotate TCR enhancements
 
 > *Rotation 3*: Technology & Telecom Team (San Francisco, CA)   
-> August 2015 - February 2016  
+> *August 2015 - February 2016*  
 > - Voiced unique opportunities available to Verizon from Nielsen’s diverse Telecom product line
 > - Streamlined client communication procedures through self-developed technological updates
 > - Developed comprehensive knowledge of Telecom databases through supporting Solutions & Analytics Team
 
 > *Rotation 2*: Audio Sample Acquisition Team (Tampa, FL)  
-> January 2015 - August 2015  
+> *January 2015 - August 2015*  
 > - Documented sampling procedures across Nielsen product portfolio (Television, Audio, and Scarborough)
 > - Led business wide analysis of sample de-duplication procedure
 > - Presented list of key findings, best practices, and potential solution ideas to key stakeholders
 
 > *Rotation 1*: Behavioral Methods Team (Tampa, FL)   
-> July 2014 - January 2015  
+> *July 2014 - January 2015*  
 > - Performed cost-analysis of TV Diary incentives resulting in $500,000 worth of savings
 > - Led cross-functional team in evaluation of CATI logic within scripts used for phoning households
 > - Developed informative FAQ website offered to respondents 
-
-
-
-
-
 
