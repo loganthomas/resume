@@ -2,7 +2,7 @@
 [`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
 
 ## Skills
-- Programming Language &ndash; Python, SQL, Spark, R  
+- Programming Language &ndash; Python, SQL, Spark, R, BigQuery (Google Cloud Platform)  
 - Methodology &ndash; Data Munging, Data Mining, Machine Learning, Scripting, Automation, Web Development  
 - Data Visualization &ndash; Matplotlib, Plotly, Spotfire, Tableau  
 
