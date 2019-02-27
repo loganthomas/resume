@@ -27,6 +27,14 @@ Machine Learning & Algorithms Team - Senior Data Scientist
 - Create and deploy machine learning models
 - Synthesize data to influence decision-making
 
+**Datacamp, Remote**  
+Data Science Course Instructor  
+*February 2019 - Present*  
+- Designed interactive online course for data scientists focused on writing efficient Python code
+- More than X students have completed the course
+- Average course rating of X/5
+- Link to course can be found here
+
 **Columbia University School of Professional Studies, New York, NY**  
 Applied Analytics in an Organizational Context - Course Facilitator Associate  
 *September 2016 - December 2016*
@@ -41,14 +49,14 @@ Digital Product Team - Senior Data Scientist
 **Nielsen, Tampa, FL & San Fransisco, CA**  
 Emerging Leaders Program - Data Science  
 *July 2014 - August 2016*  
-> Watch Product Enhancement Team (San Fransisco, CA)  
+> Watch Product Enhancement Team (San Francisco, CA)  
 > February 2016 - August 2016  
 > - Lead Analyst for Total Content Ratings (TCR) research leveraging new Data Matching System
 > - Created, implemented, and enhanced code using SQL and R programming languages
 > - Coordinated development of data quality assurance checks for implementation of TCR research
 > - Authored two description of methodology papers that illustrate and annotate TCR enhancements
 
-> Technology & Telecom Team (San Fransisco, CA)   
+> Technology & Telecom Team (San Francisco, CA)   
 > August 2015 - February 2016  
 > - Voiced unique opportunities available to Verizon from Nielsen’s diverse Telecom product line
 > - Streamlined client communication procedures through self-developed technological updates
