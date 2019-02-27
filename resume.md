@@ -27,7 +27,7 @@ Machine Learning & Algorithms Team - Senior Data Scientist
 - Create and deploy machine learning models
 - Synthesize data to influence decision-making
 
-**Datacamp, Remote**  
+**DataCamp, Remote**  
 Data Science Course Instructor  
 *February 2019 - Present*  
 - Designed interactive online course for data scientists focused on writing efficient Python code
@@ -39,36 +39,36 @@ Data Science Course Instructor
 Applied Analytics in an Organizational Context - Course Facilitator Associate  
 *September 2016 - December 2016*
 
-**Nielsen, San Fransisco, CA**  
+**Nielsen, San Francisco, CA**  
 Digital Product Team - Senior Data Scientist  
 *August 2016 - July 2017*
 - Supported development/improvement of digital measurement products
 - Deployed methodological enhancements to foundational machine learning models: age correction model, cookie classification models, and invalid traffic techniques
 - Implemented Agile framework with App Dev and Engineering teams to create production level code
 
-**Nielsen, Tampa, FL & San Fransisco, CA**  
+**Nielsen, Tampa, FL & San Francisco, CA**  
 Emerging Leaders Program - Data Science  
 *July 2014 - August 2016*  
-> _Rotation 4_: Watch Product Enhancement Team (San Francisco, CA)  
+> *Rotation 4*: Watch Product Enhancement Team (San Francisco, CA)  
 > February 2016 - August 2016  
 > - Lead Analyst for Total Content Ratings (TCR) research leveraging new Data Matching System
 > - Created, implemented, and enhanced code using SQL and R programming languages
 > - Coordinated development of data quality assurance checks for implementation of TCR research
 > - Authored two description of methodology papers that illustrate and annotate TCR enhancements
 
-> _Rotation 3_: Technology & Telecom Team (San Francisco, CA)   
+> *Rotation 3*: Technology & Telecom Team (San Francisco, CA)   
 > August 2015 - February 2016  
 > - Voiced unique opportunities available to Verizon from Nielsen’s diverse Telecom product line
 > - Streamlined client communication procedures through self-developed technological updates
 > - Developed comprehensive knowledge of Telecom databases through supporting Solutions & Analytics Team
 
-> _Rotation 2_: Audio Sample Acquisition Team (Tampa, FL)  
+> *Rotation 2*: Audio Sample Acquisition Team (Tampa, FL)  
 > January 2015 - August 2015  
 > - Documented sampling procedures across Nielsen product portfolio (Television, Audio, and Scarborough)
 > - Led business wide analysis of sample de-duplication procedure
 > - Presented list of key findings, best practices, and potential solution ideas to key stakeholders
 
-> _Rotation 1_: Behavioral Methods Team (Tampa, FL)   
+> *Rotation 1*: Behavioral Methods Team (Tampa, FL)   
 > July 2014 - January 2015  
 > - Performed cost-analysis of TV Diary incentives resulting in $500,000 worth of savings
 > - Led cross-functional team in evaluation of CATI logic within scripts used for phoning households
