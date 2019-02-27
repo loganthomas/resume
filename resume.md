@@ -38,11 +38,11 @@ Data Science Course Instructor
 **Nielsen, Austin, TX**  
 Machine Learning & Algorithms Team - Senior Data Scientist  
 *July 2017 - October 2018*  
-- Launched state of the art automation engine leveraging network analysis, community clustering, maximum bipartite graph matching, and term frequency-inverse document frequency (tf-idf).
-- Deployed automated data preparation pipeline and deep learning LSTM model using Databricks platform, AWS, TensorFlow, and Keras.
-- Oversaw model development/evaluation for cookie classification techniques comparing XGBoost, AdaBoost, and other machine learning classifiers.
-- Engineered end-to-end software solution for Total Ad Ratings product utilizing random forest models, k-d trees, and convex optimization.
-- Developed R&D data analysis pipeline for viewer assignment project leveraging Databricks platform and Apache Spark.
+- Launched state of the art automation engine leveraging network analysis, community clustering, maximum bipartite graph matching, and term frequency-inverse document frequency (tf-idf)
+- Deployed automated data preparation pipeline and deep learning LSTM model using Databricks platform, AWS, TensorFlow, and Keras
+- Oversaw model development/evaluation for cookie classification techniques comparing XGBoost, AdaBoost, and other machine learning classifiers
+- Engineered end-to-end software solution for Total Ad Ratings product utilizing random forest models, k-d trees, and convex optimization
+- Developed R&D data analysis pipeline for viewer assignment project leveraging Databricks platform and Apache Spark
 
 **Columbia University School of Professional Studies, New York, NY**  
 Applied Analytics in an Organizational Context - Course Facilitator Associate  
