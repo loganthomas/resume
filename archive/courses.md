@@ -5,6 +5,7 @@
 #### Courses
 - Python for Data Science Bootcamp (Metis: San Francisco)
 - Practical Machine Learning (Coursera: John Hopkins University)
+- Version Control with Git (Coursera: Atlassian)
 - Introduction to SQL for BigQuery and Cloud SQL (Qwiklabs and Google Cloud Platform)
 - BigQuery: Qwik Start - Command Line (Qwiklabs and Google Cloud Platform)
 - Exploring Ecommerce with SQL and BigQuery (Qwiklabs and Google Cloud Platform)
