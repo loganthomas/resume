@@ -1,27 +1,33 @@
 # Logan Thomas - Senior Data Scientist
 [`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
 
-## Online Learning  
-#### Courses
+## Bootcamps & Online Learning  
+#### Bootcamps
 - Python for Data Science Bootcamp (Metis: San Francisco)
-- Practical Machine Learning (Coursera: John Hopkins University)
-- Version Control with Git (Coursera: Atlassian)
-- Introduction to SQL for BigQuery and Cloud SQL (Qwiklabs and Google Cloud Platform)
-- BigQuery: Qwik Start - Command Line (Qwiklabs and Google Cloud Platform)
-- Exploring Ecommerce with SQL and BigQuery (Qwiklabs and Google Cloud Platform)
-- Troubleshooting SQL Errors with BigQuery (Qwiklabs and Google Cloud Platform)
-- Creating Permanent Tables and Access-Controlled Views in BigQuery (Qwiklabs and Google Cloud Platform)
-- Working with JSON, Arrays, and Structs in BigQuery (Qwiklabs and Google Cloud Platform)
-- Predict Visitors with a Classification Model in BigQuery ML (Qwiklabs and Google Cloud Platform)
-- Predict Taxi Fare with BigQuery ML Forecasting Model (Qwiklabs and Google Cloud Platform)
-- Programming for Everyone: Python (Coursera: University of Michigan)
-- Python Data Structures (Coursera: University of Michigan)
-- Using Databases with Python (Coursera: University of Michigan)
-- Questionnaire Design for Social Surveys (Coursera: University of Michigan)  
-- Intro to Python for Data Science (DataCamp)
-- Intro to SQL for Data Science (DataCamp)
-- Introduction to Git for Data Science (DataCamp)
-- Introduction to Shell for Data Science (DataCamp)
+
+#### Coursera Courses
+- Practical Machine Learning (John Hopkins University)
+- Version Control with Git (Atlassian)
+- Programming for Everyone: Python (University of Michigan)
+- Python Data Structures (University of Michigan)
+- Using Databases with Python (University of Michigan)
+- Questionnaire Design for Social Surveys (University of Michigan)  
+
+#### DataCamp Courses
+- Intro to Python for Data Science
+- Intro to SQL for Data Science
+- Introduction to Git for Data Science
+- Introduction to Shell for Data Science
+
+#### Qwiklabs (Google Cloud) Courses
+- Introduction to SQL for BigQuery and Cloud SQL 
+- BigQuery: Qwik Start - Command Line 
+- Exploring Ecommerce with SQL and BigQuery 
+- Troubleshooting SQL Errors with BigQuery 
+- Creating Permanent Tables and Access-Controlled Views in BigQuery 
+- Working with JSON, Arrays, and Structs in BigQuery 
+- Predict Visitors with a Classification Model in BigQuery ML 
+- Predict Taxi Fare with BigQuery ML Forecasting Model 
 
 ## University of Florida <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/University_of_Florida_logo.svg/1280px-University_of_Florida_logo.svg.png" align="center" width="200">
 > M.S. Mechanical Engineering (Solid Mechanics, Design, & Manufacturing) <br/>
