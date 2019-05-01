@@ -15,8 +15,9 @@
 
 #### DataCamp Courses
 - Intermediate Python for Data Science
-- Intro to Python for Data Science
-- Intro to SQL for Data Science
+- Software Engineering for Data Scientists in Python
+- Introduction to Python for Data Science
+- Introduction to SQL for Data Science
 - Introduction to Git for Data Science
 - Introduction to Shell for Data Science
 
