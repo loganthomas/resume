@@ -14,6 +14,7 @@
 - Questionnaire Design for Social Surveys (University of Michigan)  
 
 #### DataCamp Courses
+- Intermediate Python for Data Science
 - Intro to Python for Data Science
 - Intro to SQL for Data Science
 - Introduction to Git for Data Science
