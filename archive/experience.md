@@ -14,8 +14,8 @@ Machine Learning & Algorithms Team - Lead Data Scientist
 Data Science Course Instructor  
 *February 2019 - Present*  
 - Designed interactive online course for data scientists focused on writing efficient Python code
-- More than X students have completed the course
-- Average course rating of X/5
+- 450+ students have completed this course
+- 4.5 / 5 average course rating
 - Link to course can be found [here](https://www.datacamp.com/courses/writing-efficient-python-code)
 
 **Nielsen, Austin, TX**  
