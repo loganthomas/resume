@@ -14,6 +14,7 @@
 - Questionnaire Design for Social Surveys (University of Michigan)  
 
 #### DataCamp Courses
+- Python Data Science Toolbox (Part I)
 - Intermediate Python for Data Science
 - Software Engineering for Data Scientists in Python
 - Introduction to Python for Data Science
