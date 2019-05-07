@@ -15,6 +15,7 @@
 
 #### DataCamp Courses
 - Python Data Science Toolbox (Part I)
+- Python Data Science Toolbox (Part II)
 - Intermediate Python for Data Science
 - Software Engineering for Data Scientists in Python
 - Introduction to Python for Data Science
