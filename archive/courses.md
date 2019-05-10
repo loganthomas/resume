@@ -14,6 +14,7 @@
 - Questionnaire Design for Social Surveys (University of Michigan)  
 
 #### DataCamp Courses
+- Object-Oriented Programming in Python
 - Python Data Science Toolbox (Part I)
 - Python Data Science Toolbox (Part II)
 - Intermediate Python for Data Science
