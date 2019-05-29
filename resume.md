@@ -1,6 +1,12 @@
 # Logan Thomas - Senior Data Scientist
 [`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
 
+## Summary of Qualifications
+I am a highly-motivated and naturally curious individual with experience using Python, Spark, SQL, R, and
+Data Science/Machine Learning techniques. I exhibit an analytical and detail-oriented nature, while
+placing strong value on building relationships and motivating others.
+
+
 ## Skills
 - Programming Language &ndash; Python, SQL, Spark, R, BigQuery (Google Cloud Platform)  
 - Methodology &ndash; Data Munging, Data Mining, Machine Learning, Scripting, Automation, Web Development  
@@ -38,11 +44,16 @@ Data Science Course Instructor
 **Nielsen, Austin, TX**  
 Machine Learning & Algorithms Team - Senior Data Scientist  
 *July 2017 - October 2018*  
-- Launched state of the art automation engine leveraging network analysis, community clustering, maximum bipartite graph matching, and term frequency-inverse document frequency (tf-idf)
-- Deployed automated data preparation pipeline and deep learning LSTM model using Databricks platform, AWS, TensorFlow, and Keras
-- Oversaw model development/evaluation for cookie classification techniques comparing XGBoost, AdaBoost, and other machine learning classifiers
-- Engineered end-to-end software solution for Total Ad Ratings product utilizing random forest models, k-d trees, and convex optimization
-- Developed R&D data analysis pipeline for viewer assignment project leveraging Databricks platform and Apache Spark
+- Launched state of the art automation engine leveraging network analysis, community clustering,
+  maximum bipartite graph matching, and term frequency-inverse document frequency (tf-idf)
+- Deployed automated data preparation pipeline and deep learning LSTM model using Databricks platform,
+  AWS, TensorFlow, and Keras
+- Oversaw model development/evaluation for cookie classification techniques comparing XGBoost, AdaBoost,
+  and other machine learning classifiers
+- Engineered end-to-end software solution for Total Ad Ratings product utilizing random forest models,
+  k-d trees, and convex optimization
+- Developed R&D data analysis pipeline for viewer assignment project leveraging Databricks platform and
+  Apache Spark
 
 **Columbia University School of Professional Studies, New York, NY**  
 Applied Analytics in an Organizational Context - Course Facilitator Associate  
@@ -52,7 +63,8 @@ Applied Analytics in an Organizational Context - Course Facilitator Associate
 Digital Product Team - Senior Data Scientist  
 *August 2016 - July 2017*
 - Supported development/improvement of digital measurement products
-- Deployed methodological enhancements to foundational machine learning models: age correction model, cookie classification models, and invalid traffic techniques
+- Deployed methodological enhancements to foundational machine learning models: age correction model,
+  cookie classification models, and invalid traffic techniques
 - Implemented Agile framework with App Dev and Engineering teams to create production level code
 
 **Nielsen, Tampa, FL & San Francisco, CA**  
