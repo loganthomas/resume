@@ -31,6 +31,7 @@ Machine Learning & Algorithms Team - Senior Data Scientist
 **Columbia University School of Professional Studies, New York, NY**  
 Applied Analytics in an Organizational Context - Course Facilitator Associate  
 *September 2016 - December 2016*
+- Facilitated lessons on Data Science, Open Source, and Modern Analytics (approximately 20 students)
 
 **Nielsen, San Francisco, CA**  
 Digital Product Team - Senior Data Scientist  
