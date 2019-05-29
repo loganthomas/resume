@@ -2,6 +2,11 @@
 [`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
 
 ## Work Awards
+- **Nielsen Essentials Program Selection** - (April 2019)
+  - Selected to participate in Nielsen's distinguished mid-career development program.
+  - Honors associates who have made critical contributions to Nielsen and trains them for future
+    leadership roles at Nielsen.
+
 - **Nielsen Data Science Collaby Award** - (May 2017)
   - You have demonstrated above and beyond collaboration ability and effectively have worked
   across boundaries toward a common goal not only to embody our Nielsen values, but also
