@@ -9,6 +9,7 @@ Machine Learning & Algorithms Team - Lead Data Scientist
 - Discover relationships and detect anomalies in large datasets
 - Create and deploy machine learning models
 - Synthesize data to enable measurement and empower decision-making
+- Advocate for clean code, version control (*git*), and unit-testing
 
 **DataCamp, Remote**  
 Data Science Course Instructor  
