@@ -25,22 +25,28 @@ placing strong value on building relationships and motivating others.
 
 
 ## Experience
-**Nielsen, Austin, TX**  
-Machine Learning & Algorithms Team - Lead Data Scientist  
-*October 2018 - Present*  
-- Gather and clean complex/noisy data
-- Discover relationships and detect anomalies in large datasets
-- Create and deploy machine learning models
-- Synthesize data to enable measurement and empower decision-making
-- Advocate for clean code, version control (*git*), and unit-testing
+**Protection Engineering Consultants, Austin, TX**  
+Senior Associate Data Scientist  
+*August 2019 - Present*  
+- Genetic Programming (MGGP)
+- Symbolic Regression
 
 **DataCamp, Remote**  
 Data Science Course Instructor  
 *February 2019 - Present*  
 - Designed interactive online course for data scientists focused on writing efficient Python code
-- 450+ students have completed this course
+- 750+ students have completed this course
 - 4.5 / 5 average course rating
 - Link to course can be found [here](https://www.datacamp.com/courses/writing-efficient-python-code)
+
+**Nielsen, Austin, TX**  
+Machine Learning & Algorithms Team - Lead Data Scientist  
+*October 2018 - August 2019*  
+- Gather and clean complex/noisy data
+- Discover relationships and detect anomalies in large datasets
+- Create and deploy machine learning models
+- Synthesize data to enable measurement and empower decision-making
+- Advocate for clean code, version control (*git*), and unit-testing
 
 **Nielsen, Austin, TX**  
 Machine Learning & Algorithms Team - Senior Data Scientist  
