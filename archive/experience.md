@@ -12,7 +12,9 @@ Senior Associate Data Scientist
 Data Science Course Instructor  
 *February 2019 - Present*  
 - Designed interactive online course for data scientists focused on writing efficient Python code
-- 750+ students have completed this course
+- 4 hours of content (15 videos with 53 exercises)
+- 7,500+ course participants
+- 1,700+ course completions
 - 4.5 / 5 average course rating
 - Link to course can be found [here](https://www.datacamp.com/courses/writing-efficient-python-code)
 
