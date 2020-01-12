@@ -11,7 +11,7 @@ placing strong value on building relationships and motivating others.
 - Programming Language &ndash; Python, SQL, Spark, R, BigQuery (Google Cloud Platform)  
 - Methodology &ndash; Data Munging, Data Mining, Machine Learning, Scripting, Automation, Web Development  
 - Data Visualization &ndash; Matplotlib, Plotly, Spotfire, Tableau  
-
+- Data Science Advisor &ndash; Individual mentorship & advisement
 
 ## Education
 **University of Florida, Gainesville, FL**  

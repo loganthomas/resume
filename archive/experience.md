@@ -83,6 +83,13 @@ Mathematics Tutor
 *August 2011 - May 2012*  
 
 ## Side Projects
+**Data Science Advisor**  
+Individual Mentorship & Advisement  
+*January 2019 - Present*  
+- 2019: 1 Data Science mentee
+- 2020: 1 Data Science mentee, 2 Data Science advisees  
+- Participated in 3 different sprints   
+
 **Nielsen, San Francisco, CA**  
 Data Science Hackathon Planning Committee  
 *August 2016 - July 2017*  
