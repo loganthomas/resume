@@ -1,7 +1,7 @@
 # Logan Thomas - Senior Data Scientist
 [`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
 
-## Bootcamps & Online Learning  
+## Bootcamps & Online Learning
 #### Bootcamps
 - Python for Data Science Bootcamp (Metis: San Francisco)
 
@@ -11,9 +11,10 @@
 - Programming for Everyone: Python (University of Michigan)
 - Python Data Structures (University of Michigan)
 - Using Databases with Python (University of Michigan)
-- Questionnaire Design for Social Surveys (University of Michigan)  
+- Questionnaire Design for Social Surveys (University of Michigan)
 
 #### DataCamp Courses
+- Introduction to Deep Learning with PyTorch
 - Object-Oriented Programming in Python
 - Python Data Science Toolbox (Part I)
 - Python Data Science Toolbox (Part II)
@@ -25,14 +26,14 @@
 - Introduction to Shell for Data Science
 
 #### Qwiklabs (Google Cloud) Courses
-- Introduction to SQL for BigQuery and Cloud SQL 
-- BigQuery: Qwik Start - Command Line 
-- Exploring Ecommerce with SQL and BigQuery 
-- Troubleshooting SQL Errors with BigQuery 
-- Creating Permanent Tables and Access-Controlled Views in BigQuery 
-- Working with JSON, Arrays, and Structs in BigQuery 
-- Predict Visitors with a Classification Model in BigQuery ML 
-- Predict Taxi Fare with BigQuery ML Forecasting Model 
+- Introduction to SQL for BigQuery and Cloud SQL
+- BigQuery: Qwik Start - Command Line
+- Exploring Ecommerce with SQL and BigQuery
+- Troubleshooting SQL Errors with BigQuery
+- Creating Permanent Tables and Access-Controlled Views in BigQuery
+- Working with JSON, Arrays, and Structs in BigQuery
+- Predict Visitors with a Classification Model in BigQuery ML
+- Predict Taxi Fare with BigQuery ML Forecasting Model
 
 ## University of Florida <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/University_of_Florida_logo.svg/1280px-University_of_Florida_logo.svg.png" align="center" width="200">
 > M.S. Mechanical Engineering (Solid Mechanics, Design, & Manufacturing) <br/>
@@ -69,4 +70,3 @@
 - Probability and Statistics (MAT 3854)
 - Physics with Calculus I (PHY 2113)
 - Physics with Calculus II (PHY 2123)
-
