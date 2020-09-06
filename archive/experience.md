@@ -194,6 +194,9 @@ Baseball Office - Intern<br/>
 - Pandas
 - Sci-Kit Learn
 - DEAP
+- TensorFlow
+- PyTorch
+- OpenCV
 
 **Visualization Familiarity**
 - Matplotlib
