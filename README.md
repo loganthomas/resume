@@ -1,5 +1,7 @@
-# Logan Thomas - Senior Data Scientist
-[`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
+# Logan Thomas
+**Software Developer & Technical Trainer**
+<br/>
+[loganthomas.dev](https://www.loganthomas.dev) | [logan.thomas005@gmail.com](mailto:logan.thomas005@gmail.com) | `321.961.9107` <br/> <br/>
 
 ## Summary of Qualifications
 I am a highly-motivated and naturally curious individual with experience using Python, Spark, SQL, R, and
@@ -25,14 +27,14 @@ placing strong value on building relationships and motivating others.
 
 
 ## Experience
-**Protection Engineering Consultants, Austin, TX**<br/>
-Senior Associate Data Scientist<br/>
-*August 2019 - Present*
-- Genetic Programming (MGGP)
-- Symbolic Regression
-- Computer Vision (OpenCV)
-- Python Champion
-- Git Champion
+**Enthought, Austin, TX**<br/>
+Senior Scientific Software Developer & Python Trainer<br/>
+*February 2021 - Present*
+- Teach machine learning, deep learning, and python focused courses
+- Solve technical problems through efficient, idomatic, and unit tested code 
+
+**SciPy Conference Tutorial Co-Chair, Austin, TX**<br/>
+*January 2022 - Present*
 
 **DataCamp, Remote**<br/>
 Data Science Course Instructor<br/>
@@ -46,6 +48,15 @@ Data Science Course Instructor<br/>
   - *Python Programmer* (Career Track)
   - *Python Programming* (Skill Track)
   - *Python Toolkit* (Skill Track)
+
+**Protection Engineering Consultants, Austin, TX**<br/>
+Senior Associate Data Scientist<br/>
+*August 2019 - February 2021*
+- Genetic Programming (MGGP)
+- Symbolic Regression
+- Computer Vision (OpenCV)
+- Python Champion
+- Git Champion
 
 **Nielsen, Austin, TX**<br/>
 Machine Learning & Algorithms Team - Lead Data Scientist<br/>
