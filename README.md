@@ -41,7 +41,7 @@ Data Science Course Instructor<br/>
 *February 2019 - Present*
 - Designed interactive online course for data scientists focused on writing efficient Python code [here](https://www.datacamp.com/courses/writing-efficient-python-code)
 - 4 hours of content (15 videos with 53 exercises)
-- 20,000+ course participants
+- 75,000+ course participants
 - 4.5 / 5 average course rating
 - Included in curriculum for:
   - *Data Engineer with Python* (Career Track)

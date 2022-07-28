@@ -4,7 +4,7 @@
 - [Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
 - Designed interactive online course for data scientists focused on writing efficient Python code
 - 4 hours of content (15 videos with 53 exercises)
-- 45,000+ course participants
+- 75,000+ course participants
 - 4.5 / 5 average course rating
 
 ### Senior Associate Data Scientist
