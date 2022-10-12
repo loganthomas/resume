@@ -38,11 +38,11 @@ Senior Scientific Software Developer & Python Trainer<br/>
 
 **DataCamp, Remote**<br/>
 Data Science Course Instructor<br/>
-*February 2019 - Present*
+*February 2019 - October 2022*
 - Designed interactive online course for data scientists focused on writing efficient Python code [here](https://www.datacamp.com/courses/writing-efficient-python-code)
 - 4 hours of content (15 videos with 53 exercises)
-- 75,000+ course participants
-- 4.5 / 5 average course rating
+- 80,000+ course participants
+- 4.55 / 5 average course rating
 - Included in curriculum for:
   - *Data Engineer with Python* (Career Track)
   - *Python Programmer* (Career Track)
