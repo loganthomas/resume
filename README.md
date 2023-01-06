@@ -6,7 +6,7 @@
 ## Summary of Qualifications
 I am a highly-motivated and naturally curious individual with experience using Python, Spark, SQL, R, and
 Data Science/Machine Learning techniques. I exhibit an analytical and detail-oriented nature, while
-placing strong value on building relationships and motivating others.
+placing strong value on building relationships.
 
 
 ## Skills
@@ -31,7 +31,7 @@ placing strong value on building relationships and motivating others.
 Senior Scientific Software Developer & Python Trainer<br/>
 *February 2021 - Present*
 - Teach machine learning, deep learning, and python focused courses
-- Solve technical problems through efficient, idomatic, and unit tested code 
+- Solve technical problems through efficient, idiomatic, and unit tested code
 
 **SciPy Conference Tutorial Co-Chair, Austin, TX**<br/>
 *January 2022 - Present*
