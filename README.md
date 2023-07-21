@@ -8,12 +8,21 @@ I am a highly-motivated and naturally curious individual with experience using P
 Data Science/Machine Learning techniques. I exhibit an analytical and detail-oriented nature, while
 placing strong value on building relationships.
 
-
 ## Skills
 - Programming Language &ndash; Python, SQL, Spark, R, BigQuery (Google Cloud Platform)
 - Methodology &ndash; Data Munging, Data Mining, Machine Learning, Scripting, Automation, Web Development
 - Data Visualization &ndash; Matplotlib, Plotly, Spotfire, Tableau
 - Data Science Advisor &ndash; Individual mentorship & advisement
+
+## Talks & Tutorials
+- SciPy 2021
+  - [Numpy-Tutorial-SciPyConf-2021](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2021)
+  - [YouTube recording](https://www.youtube.com/embed/8L1MgStSZhk)
+- SciPy 2022
+  - [Numpy-Tutorial-SciPyConf-2022](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2022/)
+  - [YouTube recording](https://www.youtube.com/embed/bveHFn0G4Zg)
+- What Every R&D Leader Needs to Know About ChatGPT and LLMs
+  - [Enthought webinar (register to view recording)](https://www.enthought.com/resource/webinar-what-every-rd-leader-needs-to-know-about-chatgpt-and-llms/)
 
 ## Education
 **University of Florida, Gainesville, FL**<br/>
@@ -24,7 +33,6 @@ placing strong value on building relationships.
 *Bachelor of Science Mathematics (Minor in Biblical Studies)*<br/>
 *Summa Cum Laude*
 *May 2012*
-
 
 ## Experience
 **Enthought, Austin, TX**<br/>
