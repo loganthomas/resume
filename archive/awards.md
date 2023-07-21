@@ -1,7 +1,15 @@
-# Logan Thomas - Senior Data Scientist
+# Logan Thomas - Scientific Software Developer & Python Trainer
 [`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
 
 ## Work Awards
+- **Best 5 Python Courses** - (June 2023)
+  - My ["Writing Efficient Python Code"](https://www.datacamp.com/courses/writing-efficient-python-code) course has been mentioned as one of the Best 5 Python Courses of 2023 by the AI Time Journal
+  - Full article [here](https://www.aitimejournal.com/best-python-courses/44616/)
+
+- **PyDev of the Week** - (March 2023)
+  - Interviewed by [Michael Driscoll](https://www.linkedin.com/in/driscollis/) for his regular PyDev of the Week column on his personal blog, [Mouse vs Python](https://www.blog.pythonlibrary.org/)
+  - Full interview [here](https://www.blog.pythonlibrary.org/2023/03/13/pydev-of-the-week-logan-thomas/)
+
 - **Nielsen Essentials Program Selection** - (April 2019)
   - Selected to participate in Nielsen's distinguished mid-career development program.
   - Honors associates who have made critical contributions to Nielsen and trains them for future
@@ -18,8 +26,8 @@
   Your dedication to the Databricks pilot was a big factor in the success we had. You were
   there everyday and you really embraced the effort and the technology. I could not have
   done what I did on the project without your help. Thank you so much.
- 
-- **First Place HOLA Innovation Challenge** (August 2015)  
+
+- **First Place HOLA Innovation Challenge** (August 2015)
   - Recognized for new and innovative techniques created to inform sample acquisition
   target rates
 
@@ -33,7 +41,7 @@
   - For all your hard work on our recent product launch. This is a huge milestone for our
   company's product offering and would not have been possible without your contribution!
   Thank you for your perseverance in producing a thorough, accurate, and versatile,
-  methodology. 
+  methodology.
 
 - **Nielsen Simply Excellent** - *Gold* (January 2017)
   - For going above and beyond in the transition to owning the R&D for in digital invalid
