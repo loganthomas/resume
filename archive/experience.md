@@ -1,4 +1,4 @@
-# Logan Thomas - Senior Data Scientist
+# Logan Thomas - Scientific Software Developer & Python Trainer
 [`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
 
 ## Experience

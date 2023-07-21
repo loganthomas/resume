@@ -1,5 +1,5 @@
 # Logan Thomas
-**Software Developer & Technical Trainer**
+**Scientific Software Developer & Python Trainer**
 <br/>
 [loganthomas.dev](https://www.loganthomas.dev) | [logan.thomas005@gmail.com](mailto:logan.thomas005@gmail.com) | `321.961.9107` <br/> <br/>
 
@@ -8,12 +8,21 @@ I am a highly-motivated and naturally curious individual with experience using P
 Data Science/Machine Learning techniques. I exhibit an analytical and detail-oriented nature, while
 placing strong value on building relationships.
 
-
 ## Skills
 - Programming Language &ndash; Python, SQL, Spark, R, BigQuery (Google Cloud Platform)
 - Methodology &ndash; Data Munging, Data Mining, Machine Learning, Scripting, Automation, Web Development
 - Data Visualization &ndash; Matplotlib, Plotly, Spotfire, Tableau
 - Data Science Advisor &ndash; Individual mentorship & advisement
+
+## Talks & Tutorials
+- SciPy 2021
+  - [Numpy-Tutorial-SciPyConf-2021](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2021)
+  - [YouTube recording](https://www.youtube.com/embed/8L1MgStSZhk)
+- SciPy 2022
+  - [Numpy-Tutorial-SciPyConf-2022](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2022/)
+  - [YouTube recording](https://www.youtube.com/embed/bveHFn0G4Zg)
+- What Every R&D Leader Needs to Know About ChatGPT and LLMs
+  - [Enthought webinar (register to view recording)](https://www.enthought.com/resource/webinar-what-every-rd-leader-needs-to-know-about-chatgpt-and-llms/)
 
 ## Education
 **University of Florida, Gainesville, FL**<br/>
@@ -25,24 +34,27 @@ placing strong value on building relationships.
 *Summa Cum Laude*
 *May 2012*
 
-
 ## Experience
 **Enthought, Austin, TX**<br/>
-Senior Scientific Software Developer & Python Trainer<br/>
+Scientific Software Developer & Python Trainer<br/>
 *February 2021 - Present*
-- Teach machine learning, deep learning, and python focused courses
+- Apply machine learning and deep learning expertise to consulting projects
+- Teach machine learning, deep learning, and Python focused courses
 - Solve technical problems through efficient, idiomatic, and unit tested code
 
 **SciPy Conference Tutorial Co-Chair, Austin, TX**<br/>
 *January 2022 - Present*
+
+**PyTexas Committee Member, Austin, TX**<br/>
+*January 2023 - Present*
 
 **DataCamp, Remote**<br/>
 Data Science Course Instructor<br/>
 *February 2019 - October 2022*
 - Designed interactive online course for data scientists focused on writing efficient Python code [here](https://www.datacamp.com/courses/writing-efficient-python-code)
 - 4 hours of content (15 videos with 53 exercises)
-- 80,000+ course participants
-- 4.55 / 5 average course rating
+- 95,000+ course participants
+- 4.7 / 5 average course rating
 - Included in curriculum for:
   - *Data Engineer with Python* (Career Track)
   - *Python Programmer* (Career Track)
@@ -52,26 +64,24 @@ Data Science Course Instructor<br/>
 **Protection Engineering Consultants, Austin, TX**<br/>
 Senior Associate Data Scientist<br/>
 *August 2019 - February 2021*
-- Genetic Programming (MGGP)
-- Symbolic Regression
-- Computer Vision (OpenCV)
-- Python Champion
-- Git Champion
+- Developed an evolutionary algorithm library for deploying multi-gene genetic programming and symbolic regression (`DEAP` and `SymPy`)
+- Enhanced computer vision algorithms for autonomous fragment tracking (`OpenCV`)
+- Led Python projects and promoted Git usage within the team
+- Security Clearance as of Sept 2020
 
 **Nielsen, Austin, TX**<br/>
 Machine Learning & Algorithms Team - Lead Data Scientist<br/>
 *October 2018 - August 2019*
-- Gathered and cleaned complex/noisy data
-- Discovered relationships and detected anomalies in large datasets
-- Created and deployed machine learning models
-- Synthesized data to enable measurement and empowered decision-making
-- Advocated for clean code, version control (*git*), and unit-testing
+- Developed and implemented machine learning models to drive data-driven insights
+- Identified patterns and anomalies in large datasets to optimize decision-making processes
+- Integrated diverse datasets to provide actionable insights for stakeholders
+- Promoted best practices including clean code, version control, and unit testing to ensure quality outcomes
 
 **Nielsen, Austin, TX**<br/>
 Machine Learning & Algorithms Team - Senior Data Scientist<br/>
 *July 2017 - October 2018*
 - Launched state of the art automation engine leveraging network analysis, community clustering,
-  maximum bipartite graph matching, and term frequency-inverse document frequency (tf-idf)
+  maximum bipartite graph matching, and term frequency-inverse document frequency (TF-IDF)
 - Deployed automated data preparation pipeline and deep learning LSTM model using Databricks platform,
   AWS, TensorFlow, and Keras
 - Oversaw model development/evaluation for cookie classification techniques comparing XGBoost, AdaBoost,
