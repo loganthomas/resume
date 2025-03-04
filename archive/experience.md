@@ -3,7 +3,7 @@
 
 ## Experience
 **Fullstroy, Austin, TX (Remote)**<br/>
-Senior Data Scientist Software Engineer<br/>
+Senior Data Science Software Engineer<br/>
 *March 2025 - Present*
 - Design and execute experiments that develop algorithms and models that are
   actionable and create meaningful business value
