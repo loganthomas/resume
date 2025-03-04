@@ -2,27 +2,59 @@
 [`logan.thomas005@gmail.com`](mailto:logan.thomas005@gmail.com)` | 321.961.9107` <br/> <br/>
 
 ## Experience
-**Protection Engineering Consultants, Austin, TX**<br/>
-Senior Associate Data Scientist<br/>
-*August 2019 - Present*
-- Genetic Programming (MGGP)
-- Symbolic Regression
-- Computer Vision (OpenCV)
-- Python Champion
-- Git Champion
+**Fullstroy, Austin, TX (Remote)**<br/>
+Senior Data Scientist Software Engineer<br/>
+*March 2025 - Present*
+- Design and execute experiments that develop algorithms and models that are
+  actionable and create meaningful business value
+- Develop machine learning systems that model, classify and predict behavior
+- Write production-quality code and help design systems that incorporate
+  these algorithms and models into product features and services
+- Set up instrumentation and analyses that continuously monitor product
+  features for quality assurance and customer success
+- Collaborate with engineers to architect new data science product infrastructure
+  
+**Pattern Bioscience, Austin, TX**<br/>
+Senior Data Scientist<br/>
+*December 2023 - March 2025*
+- Utilized machine learning algorithms to extract and identify metabolic signatures
+- Led ad hoc analyses as embedded data scientist within molecular biologist team
+- Supported data engineering processes and automation efforts
+
+**SciPy Conference Tutorial Co-Chair, Austin, TX**<br/>
+*January 2022 - January 2025*
+
+**PyTexas Committee Member, Austin, TX**<br/>
+*January 2023 - January 2024*
+
+**Enthought, Austin, TX**<br/>
+Scientific Software Developer & Python Trainer<br/>
+*February 2021 - December 2023*
+- Applied machine learning and deep learning expertise to consulting projects
+- Taught machine learning, deep learning, and Python focused courses
+- Solved technical problems through efficient, idiomatic, and unit tested code
 
 **DataCamp, Remote**<br/>
 Data Science Course Instructor<br/>
-*February 2019 - Present*
+*February 2019 - October 2022*
 - Designed interactive online course for data scientists focused on writing efficient Python code [here](https://www.datacamp.com/courses/writing-efficient-python-code)
 - 4 hours of content (15 videos with 53 exercises)
-- 75,000+ course participants
-- 4.5 / 5 average course rating
+- 95,000+ course participants
+- 4.7 / 5 average course rating
 - Included in curriculum for:
   - *Data Engineer with Python* (Career Track)
   - *Python Programmer* (Career Track)
   - *Python Programming* (Skill Track)
   - *Python Toolkit* (Skill Track)
+
+**Protection Engineering Consultants, Austin, TX**<br/>
+Senior Associate Data Scientist<br/>
+*August 2019 - February 2021*
+- Genetic Programming (MGGP)
+- Symbolic Regression
+- Computer Vision (OpenCV)
+- Python Champion
+- Git Champion
 
 **Nielsen, Austin, TX**<br/>
 Machine Learning & Algorithms Team - Lead Data Scientist<br/>
