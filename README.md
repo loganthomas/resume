@@ -54,18 +54,18 @@ Senior Data Scientist<br/>
 - Led ad hoc analyses as embedded data scientist within molecular biologist team
 - Supported data engineering processes and automation efforts
 
+**SciPy Conference Tutorial Co-Chair, Austin, TX**<br/>
+*January 2022 - January 2025*
+
+**PyTexas Committee Member, Austin, TX**<br/>
+*January 2023 - January 2024*
+
 **Enthought, Austin, TX**<br/>
 Scientific Software Developer & Python Trainer<br/>
 *February 2021 - December 2023*
 - Applied machine learning and deep learning expertise to consulting projects
 - Taught machine learning, deep learning, and Python focused courses
 - Solved technical problems through efficient, idiomatic, and unit tested code
-
-**SciPy Conference Tutorial Co-Chair, Austin, TX**<br/>
-*January 2022 - January 2025*
-
-**PyTexas Committee Member, Austin, TX**<br/>
-*January 2023 - January 2024*
 
 **DataCamp, Remote**<br/>
 Data Science Course Instructor<br/>
