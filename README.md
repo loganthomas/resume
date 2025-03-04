@@ -1,15 +1,15 @@
 # Logan Thomas
-**Scientific Software Developer & Python Trainer**
+**Data Scientist & Software Engineer**
 <br/>
 [loganthomas.dev](https://www.loganthomas.dev) | [logan.thomas005@gmail.com](mailto:logan.thomas005@gmail.com) | `321.961.9107` <br/> <br/>
 
 ## Summary of Qualifications
-I am a highly-motivated and naturally curious individual with experience using Python, Spark, SQL, R, and
+I am a highly-motivated and naturally curious individual with experience using Python, Spark, SQL, and
 Data Science/Machine Learning techniques. I exhibit an analytical and detail-oriented nature, while
 placing strong value on building relationships.
 
 ## Skills
-- Programming Language &ndash; Python, SQL, Spark, R, BigQuery (Google Cloud Platform)
+- Programming Language &ndash; Python, SQL, Spark, BigQuery (Google Cloud Platform)
 - Methodology &ndash; Data Munging, Data Mining, Machine Learning, Scripting, Automation, Web Development
 - Data Visualization &ndash; Matplotlib, Plotly, Spotfire, Tableau
 - Data Science Advisor &ndash; Individual mentorship & advisement
@@ -35,18 +35,37 @@ placing strong value on building relationships.
 *May 2012*
 
 ## Experience
+**Fullstroy, Austin, TX (Remote)**<br/>
+Senior Data Scientist Software Engineer<br/>
+*March 2025 - Present*
+- Design and execute experiments that develop algorithms and models that are
+  actionable and create meaningful business value
+- Develop machine learning systems that model, classify and predict behavior
+- Write production-quality code and help design systems that incorporate
+  these algorithms and models into product features and services
+- Set up instrumentation and analyses that continuously monitor product
+  features for quality assurance and customer success
+- Collaborate with engineers to architect new data science product infrastructure
+  
+**Pattern Bioscience, Austin, TX**<br/>
+Senior Data Scientist<br/>
+*December 2023 - March 2025*
+- Utilized machine learning algorithms to extract and identify metabolic signatures
+- Led ad hoc analyses as embedded data scientist within molecular biologist team
+- Supported data engineering processes and automation efforts
+
 **Enthought, Austin, TX**<br/>
 Scientific Software Developer & Python Trainer<br/>
-*February 2021 - Present*
-- Apply machine learning and deep learning expertise to consulting projects
-- Teach machine learning, deep learning, and Python focused courses
-- Solve technical problems through efficient, idiomatic, and unit tested code
+*February 2021 - December 2023*
+- Applied machine learning and deep learning expertise to consulting projects
+- Taught machine learning, deep learning, and Python focused courses
+- Solved technical problems through efficient, idiomatic, and unit tested code
 
 **SciPy Conference Tutorial Co-Chair, Austin, TX**<br/>
-*January 2022 - Present*
+*January 2022 - January 2025*
 
 **PyTexas Committee Member, Austin, TX**<br/>
-*January 2023 - Present*
+*January 2023 - January 2024*
 
 **DataCamp, Remote**<br/>
 Data Science Course Instructor<br/>
