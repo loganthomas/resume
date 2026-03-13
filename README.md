@@ -35,7 +35,7 @@ placing strong value on building relationships.
 *May 2012*
 
 ## Experience
-**Fullstroy, Austin, TX (Remote)**<br/>
+**Fullstory, Austin, TX (Remote)**<br/>
 Senior Data Science Software Engineer<br/>
 *March 2025 - Present*
 - Design and execute experiments that develop algorithms and models that are
