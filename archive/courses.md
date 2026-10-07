@@ -40,10 +40,10 @@
 > Minor: Statistics <br/>
 #### Courses
 - Foundations of Production (EML 6324)
-- Statistical Methods in Research I (STA 6166)
 - Mechanics of Materials (EML 3520)
 - Finite Element Analysis (EML 5526)
 - Continuum Mechanics (EGM 6611)
+- - Statistical Methods in Research I (STA 6166)
 - Statistical Methods in Research II (STA 6167)
 - Applied Elasticity and Advance Mechanics (EGM 5533)
 - Geometry and Mechanics of Robots I (EML 6281)
@@ -62,6 +62,7 @@
 - Discrete Mathematics (MAT 3253)
 - Programming I (CSC 2203)
 - Abstract Algebra (MAT 4053)
+- History and Philosophy of Mathematics (MAT 3523)
 - Differential Equations (MAT 2963)
 - Linear Algebra (MAT 3403)
 - Number Theory (MAT 3553)
